@@ -1,3 +1,4 @@
+
 {
     "H": {
         "protons": 1,
@@ -1443,5 +1444,13 @@
             8
         ],
         "name": "Oganesson"
+    },
+    "²H": 
+    { "protons": 1,
+      "neutrons": 1,
+      "electrons": [
+        1
+      ],
+        "name": "Deuterium"
     }
 }
