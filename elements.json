@@ -1,4 +1,3 @@
-
 {
     "H": {
         "protons": 1,
@@ -1445,12 +1444,44 @@
         ],
         "name": "Oganesson"
     },
-    "²H": 
+    "2H": 
     { "protons": 1,
       "neutrons": 1,
       "electrons": [
         1
       ],
         "name": "Deuterium"
+    },
+            "234Uranium": 
+    { "protons": 92,
+      "neutrons": 142,
+      "electrons": [
+        92
+      ],
+        "name": "Uranium-234"
+    }
+        "235Uranium": 
+    { "protons": 92,
+      "neutrons": 143,
+      "electrons": [
+        92
+      ],
+        "name": "Uranium-235"
+    },
+            "238Uranium": 
+    { "protons": 92,
+      "neutrons": 146,
+      "electrons": [
+        92
+      ],
+        "name": "Uranium-238"
+    },
+                "244Plutonium": 
+    { "protons": 94,
+      "neutrons": 150,
+      "electrons": [
+        94
+      ],
+        "name": "Plutonium-244"
     }
 }
