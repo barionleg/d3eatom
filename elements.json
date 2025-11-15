@@ -1452,6 +1452,14 @@
       ],
         "name": "Deuterium"
     },
+                "114-Cd": 
+    { "protons": 48,
+      "neutrons": 66,
+      "electrons": [
+        48
+      ],
+        "name": "Cadmium-114 "
+    },
     "232-Th": { 
     "protons": 90, 
     "neutrons": 142, 
