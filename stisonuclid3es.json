@@ -1,4 +1,12 @@
 {
+    "n": {   
+		"protons":  0,
+        "neutrons": 1,
+        "electrons": [
+		1
+		],
+		  "name":  "neutron-1"
+	},
     "1-H-1": {
         "protons": 1,
         "neutrons": 0,
