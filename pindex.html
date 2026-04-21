@@ -223,6 +223,20 @@
         .atom-display:hover {
             background: rgba(255, 255, 255, 0.1);
         }
+		
+		.isotope-display {
+            font-size: 14px;
+            font-weight: 500;
+            color: #00ffff;
+            white-space: nowrap;
+            padding: 6px 10px;
+            border-radius: 6px;
+            transition: background 0.2s ease;
+        }
+
+        .isotope-display:hover {
+            background: rgba(255, 255, 255, 0.1);
+        }
 
 
     </style>
@@ -239,17 +253,17 @@
         <a href="https://dbard.gitbook.io/" target="_blank" rel="noopener noreferrer" class="mini-nav__item">
             giㅈbök
         </a>
-        <a href="https://periodictableofelements.fandom.com/wiki/Atom" target="_blank" rel="noopener noreferrer" class="mini-nav__item">
+        <a href="https://en.wikipedia.org/wiki/Isotope" target="_blank" rel="noopener noreferrer" class="mini-nav__item">
             Шikipeðiaㅈ®
         </a>
 
-        <a id="current-atom-link" href="https://aibolem.github.io/TbIICSA_p_beta_Ch/1_326_&_beyond.html"
-           target="_blank" rel="noopener noreferrer" class="mini-nav__item atom-display">
-            O — Oxygen </a>
+        <a id="current-isotope-link" href="https://en.wikipedia.org/wiki/Isotopes_of_oxygen"
+           target="_blank" rel="noopener noreferrer" class="mini-nav__item isotope-display">
+            Oxygen-16 </a>
     </nav>
 
     <div id="autocomplete-wrapper">
-        <input id="search" type="text" placeholder="Search elements..." autocomplete="off" />
+        <input id="search" type="text" placeholder="Search elements..." autocomplete="on" />
         <div id="autocomplete-list"></div>
     </div>
 </header>
@@ -320,7 +334,7 @@
         }
     });
 
-    fetch("./stisonuclid3es.json")
+    fetch("./isotope_fullnames.json")
         .then(res => res.json())
         .then(json => {
             elementData = json;
@@ -328,7 +342,7 @@
                 ...data,
                 symbol
             }));
-            updateScene("O");
+            updateScene("8-O-16");
         });
 
     function updateScene(symbol) {
@@ -336,7 +350,7 @@
         if (!data) return;
         createNucleus(data.protons, data.neutrons);
         createElectrons(data.electrons);
-        const link = document.getElementById('current-atom-link');
+        const link = document.getElementById('current-isotope-link');
         link.textContent = `${symbol} — ${data.name}`;
         const wikiName = data.name.replace(/\s+/g, '_');
         link.href = `https://en.wikipedia.org/wiki/${wikiName}`;
