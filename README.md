@@ -1,3 +1,9 @@
+# 2026 APRIL 21  
+## done, with bit help of Chat GPT with orthographic correcting in .json order
+
+
+
+
 # ... Build in Process ... See in leather please! Д'barionlegd3eÅтОм mött ÆЗb; Attached to Isotope & Nuclide Project: ISOCAUNUC
 
 
