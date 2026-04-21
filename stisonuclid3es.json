@@ -1,0 +1,721 @@
+/* created by Irakli Bardavelid3e for Composarc family ©1932; dedicated to frau mutter: ComPoSARC (meriot) 2026 */
+
+{
+    "1-H-1": {
+        "protons": 1,
+        "neutrons": 0,
+        "electrons": [1],
+        "name": "Hydrogen-1"
+    },
+    "2-He-4": {
+        "protons": 2,
+        "neutrons": 2,
+        "electrons": [2],
+        "name": "Helium-4"
+    },
+    "3-Li-7": {
+        "protons": 3,
+        "neutrons": 4,
+        "electrons": [3],
+        "name": "Lithium-7"
+    },
+    "4-Be-9": {
+        "protons": 4,
+        "neutrons": 5,
+        "electrons": [4],
+        "name": "Beryllium-9"
+    },
+    "5-B-11": {
+        "protons": 5,
+        "neutrons": 6,
+        "electrons": [5],
+        "name": "Boron-11"
+    },
+    "6-C-12": {
+        "protons": 6,
+        "neutrons": 6,
+        "electrons": [6],
+        "name": "Carbon-12"
+    },
+    "7-N-14": {
+        "protons": 7,
+        "neutrons": 7,
+        "electrons": [7],
+        "name": "Nitrogen-14"
+    },
+    "8-O-16": {
+        "protons": 8,
+        "neutrons": 8,
+        "electrons": [8],
+        "name": "Oxygen-16"
+    },
+    "9-F-19": {
+        "protons": 9,
+        "neutrons": 10,
+        "electrons": [9],
+        "name": "Fluorine-19"
+    },
+    "10-Ne-20": {
+        "protons": 10,
+        "neutrons": 10,
+        "electrons": [10],
+        "name": "Neon-20"
+    },
+    "11-Na-23": {
+        "protons": 11,
+        "neutrons": 12,
+        "electrons": [11],
+        "name": "Sodium-23"
+    },
+    "12-Mg-24": {
+        "protons": 12,
+        "neutrons": 12,
+        "electrons": [12],
+        "name": "Magnesium-24"
+    },
+    "13-Al-27": {
+        "protons": 13,
+        "neutrons": 14,
+        "electrons": [13],
+        "name": "Aluminium-27"
+    },
+    "14-Si-28": {
+        "protons": 14,
+        "neutrons": 14,
+        "electrons": [14],
+        "name": "Silicon-28"
+    },
+    "15-P-31": {
+        "protons": 15,
+        "neutrons": 16,
+        "electrons": [15],
+        "name": "Phosphorus-31"
+    },
+    "16-S-32": {
+        "protons": 16,
+        "neutrons": 16,
+        "electrons": [16],
+        "name": "Sulfur-32"
+    },
+    "17-Cl-35": {
+        "protons": 17,
+        "neutrons": 18,
+        "electrons": [17],
+        "name": "Chlorine-35"
+    },
+    "18-Ar-40": {
+        "protons": 18,
+        "neutrons": 22,
+        "electrons": [18],
+        "name": "Argon-40"
+    },
+    "19-K-39": {
+        "protons": 19,
+        "neutrons": 20,
+        "electrons": [19],
+        "name": "Potassium-39"
+    },
+    "20-Ca-40": {
+        "protons": 20,
+        "neutrons": 20,
+        "electrons": [20],
+        "name": "Calcium-40"
+    },
+
+    "21-Sc-45": {
+        "protons": 21,
+        "neutrons": 24,
+        "electrons": [21],
+        "name": "Scandium-45"
+    },
+    "22-Ti-48": {
+        "protons": 22,
+        "neutrons": 26,
+        "electrons": [22],
+        "name": "Titanium-48"
+    },
+    "23-V-51": {
+        "protons": 23,
+        "neutrons": 28,
+        "electrons": [23],
+        "name": "Vanadium-51"
+    },
+    "24-Cr-52": {
+        "protons": 24,
+        "neutrons": 28,
+        "electrons": [24],
+        "name": "Chromium-52"
+    },
+    "25-Mn-55": {
+        "protons": 25,
+        "neutrons": 30,
+        "electrons": [25],
+        "name": "Manganese-55"
+    },
+    "26-Fe-56": {
+        "protons": 26,
+        "neutrons": 30,
+        "electrons": [26],
+        "name": "Iron-56"
+    },
+    "27-Co-59": {
+        "protons": 27,
+        "neutrons": 32,
+        "electrons": [27],
+        "name": "Cobalt-59"
+    },
+    "28-Ni-58": {
+        "protons": 28,
+        "neutrons": 30,
+        "electrons": [28],
+        "name": "Nickel-58"
+    },
+    "29-Cu-63": {
+        "protons": 29,
+        "neutrons": 34,
+        "electrons": [29],
+        "name": "Copper-63"
+    },
+    "30-Zn-64": {
+        "protons": 30,
+        "neutrons": 34,
+        "electrons": [30],
+        "name": "Zinc-64"
+    },
+
+    "31-Ga-69": {
+        "protons": 31,
+        "neutrons": 38,
+        "electrons": [31],
+        "name": "Gallium-69"
+    },
+    "32-Ge-74": {
+        "protons": 32,
+        "neutrons": 42,
+        "electrons": [32],
+        "name": "Germanium-74"
+    },
+    "33-As-75": {
+        "protons": 33,
+        "neutrons": 42,
+        "electrons": [33],
+        "name": "Arsenic-75"
+    },
+    "34-Se-80": {
+        "protons": 34,
+        "neutrons": 46,
+        "electrons": [34],
+        "name": "Selenium-80"
+    },
+    "35-Br-79": {
+        "protons": 35,
+        "neutrons": 44,
+        "electrons": [35],
+        "name": "Bromine-79"
+    },
+    "36-Kr-84": {
+        "protons": 36,
+        "neutrons": 48,
+        "electrons": [36],
+        "name": "Krypton-84"
+    },
+    "37-Rb-85": {
+        "protons": 37,
+        "neutrons": 48,
+        "electrons": [37],
+        "name": "Rubidium-85"
+    },
+    "38-Sr-88": {
+        "protons": 38,
+        "neutrons": 50,
+        "electrons": [38],
+        "name": "Strontium-88"
+    },
+    "39-Y-89": {
+        "protons": 39,
+        "neutrons": 50,
+        "electrons": [39],
+        "name": "Yttrium-89"
+    },
+    "40-Zr-90": {
+        "protons": 40,
+        "neutrons": 50,
+        "electrons": [40],
+        "name": "Zirconium-90"
+    },
+
+    "41-Nb-93": {
+        "protons": 41,
+        "neutrons": 52,
+        "electrons": [41],
+        "name": "Niobium-93"
+    },
+    "42-Mo-98": {
+        "protons": 42,
+        "neutrons": 56,
+        "electrons": [42],
+        "name": "Molybdenum-98"
+    },
+    "43-Tc-98": {
+        "protons": 43,
+        "neutrons": 55,
+        "electrons": [43],
+        "name": "Technetium-98"
+    },
+    "44-Ru-102": {
+        "protons": 44,
+        "neutrons": 58,
+        "electrons": [44],
+        "name": "Ruthenium-102"
+    },
+    "45-Rh-103": {
+        "protons": 45,
+        "neutrons": 58,
+        "electrons": [45],
+        "name": "Rhodium-103"
+    },
+    "46-Pd-106": {
+        "protons": 46,
+        "neutrons": 60,
+        "electrons": [46],
+        "name": "Palladium-106"
+    },
+    "47-Ag-107": {
+        "protons": 47,
+        "neutrons": 60,
+        "electrons": [47],
+        "name": "Silver-107"
+    },
+    "48-Cd-114": {
+        "protons": 48,
+        "neutrons": 66,
+        "electrons": [48],
+        "name": "Cadmium-114"
+    },
+    "49-In-115": {
+        "protons": 49,
+        "neutrons": 66,
+        "electrons": [49],
+        "name": "Indium-115"
+    },
+    "50-Sn-120": {
+        "protons": 50,
+        "neutrons": 70,
+        "electrons": [50],
+        "name": "Tin-120"
+    },
+    "51-Sb-121": {
+        "protons": 51,
+        "neutrons": 70,
+        "electrons": [51],
+        "name": "Antimony-121"
+    },
+    "52-Te-130": {
+        "protons": 52,
+        "neutrons": 78,
+        "electrons": [52],
+        "name": "Tellurium-130"
+    },
+    "53-I-127": {
+        "protons": 53,
+        "neutrons": 74,
+        "electrons": [53],
+        "name": "Iodine-127"
+    },
+    "54-Xe-132": {
+        "protons": 54,
+        "neutrons": 78,
+        "electrons": [54],
+        "name": "Xenon-132"
+    },
+    "55-Cs-133": {
+        "protons": 55,
+        "neutrons": 78,
+        "electrons": [55],
+        "name": "Caesium-133"
+    },
+    "56-Ba-138": {
+        "protons": 56,
+        "neutrons": 82,
+        "electrons": [56],
+        "name": "Barium-138"
+    },
+    "57-La-139": {
+        "protons": 57,
+        "neutrons": 82,
+        "electrons": [57],
+        "name": "Lanthanum-139"
+    },
+    "58-Ce-140": {
+        "protons": 58,
+        "neutrons": 82,
+        "electrons": [58],
+        "name": "Cerium-140"
+    },
+    "59-Pr-141": {
+        "protons": 59,
+        "neutrons": 82,
+        "electrons": [59],
+        "name": "Praseodymium-141"
+    },
+    "60-Nd-142": {
+        "protons": 60,
+        "neutrons": 82,
+        "electrons": [60],
+        "name": "Neodymium-142"
+    },
+
+    "61-Pm-145": {
+        "protons": 61,
+        "neutrons": 84,
+        "electrons": [61],
+        "name": "Promethium-145"
+    },
+    "62-Sm-152": {
+        "protons": 62,
+        "neutrons": 90,
+        "electrons": [62],
+        "name": "Samarium-152"
+    },
+    "63-Eu-153": {
+        "protons": 63,
+        "neutrons": 90,
+        "electrons": [63],
+        "name": "Europium-153"
+    },
+    "64-Gd-158": {
+        "protons": 64,
+        "neutrons": 94,
+        "electrons": [64],
+        "name": "Gadolinium-158"
+    },
+    "65-Tb-159": {
+        "protons": 65,
+        "neutrons": 94,
+        "electrons": [65],
+        "name": "Terbium-159"
+    },
+    "66-Dy-164": {
+        "protons": 66,
+        "neutrons": 98,
+        "electrons": [66],
+        "name": "Dysprosium-164"
+    },
+    "67-Ho-165": {
+        "protons": 67,
+        "neutrons": 98,
+        "electrons": [67],
+        "name": "Holmium-165"
+    },
+    "68-Er-166": {
+        "protons": 68,
+        "neutrons": 98,
+        "electrons": [68],
+        "name": "Erbium-166"
+    },
+    "69-Tm-169": {
+        "protons": 69,
+        "neutrons": 100,
+        "electrons": [69],
+        "name": "Thulium-169"
+    },
+    "70-Yb-174": {
+        "protons": 70,
+        "neutrons": 104,
+        "electrons": [70],
+        "name": "Ytterbium-174"
+    },
+
+    "71-Lu-175": {
+        "protons": 71,
+        "neutrons": 104,
+        "electrons": [71],
+        "name": "Lutetium-175"
+    },
+    "72-Hf-180": {
+        "protons": 72,
+        "neutrons": 108,
+        "electrons": [72],
+        "name": "Hafnium-180"
+    },
+    "73-Ta-181": {
+        "protons": 73,
+        "neutrons": 108,
+        "electrons": [73],
+        "name": "Tantalum-181"
+    },
+    "74-W-184": {
+        "protons": 74,
+        "neutrons": 110,
+        "electrons": [74],
+        "name": "Tungsten-184"
+    },
+    "75-Re-187": {
+        "protons": 75,
+        "neutrons": 112,
+        "electrons": [75],
+        "name": "Rhenium-187"
+    },
+    "76-Os-192": {
+        "protons": 76,
+        "neutrons": 116,
+        "electrons": [76],
+        "name": "Osmium-192"
+    },
+    "77-Ir-193": {
+        "protons": 77,
+        "neutrons": 116,
+        "electrons": [77],
+        "name": "Iridium-193"
+    },
+    "78-Pt-195": {
+        "protons": 78,
+        "neutrons": 117,
+        "electrons": [78],
+        "name": "Platinum-195"
+    },
+    "79-Au-197": {
+        "protons": 79,
+        "neutrons": 118,
+        "electrons": [79],
+        "name": "Gold-197"
+    },
+    "80-Hg-202": {
+        "protons": 80,
+        "neutrons": 122,
+        "electrons": [80],
+        "name": "Mercury-202"
+    },
+
+    "81-Tl-205": {
+        "protons": 81,
+        "neutrons": 124,
+        "electrons": [81],
+        "name": "Thallium-205"
+    },
+    "82-Pb-208": {
+        "protons": 82,
+        "neutrons": 126,
+        "electrons": [82],
+        "name": "Lead-208"
+    },
+    "83-Bi-209": {
+        "protons": 83,
+        "neutrons": 126,
+        "electrons": [83],
+        "name": "Bismuth-209"
+    },
+    "84-Po-209": {
+        "protons": 84,
+        "neutrons": 125,
+        "electrons": [84],
+        "name": "Polonium-209"
+    },
+    "85-At-210": {
+        "protons": 85,
+        "neutrons": 125,
+        "electrons": [85],
+        "name": "Astatine-210"
+    },
+    "86-Rn-222": {
+        "protons": 86,
+        "neutrons": 136,
+        "electrons": [86],
+        "name": "Radon-222"
+    },
+    "87-Fr-223": {
+        "protons": 87,
+        "neutrons": 136,
+        "electrons": [87],
+        "name": "Francium-223"
+    },
+    "88-Ra-226": {
+        "protons": 88,
+        "neutrons": 138,
+        "electrons": [88],
+        "name": "Radium-226"
+    },
+    "89-Ac-227": {
+        "protons": 89,
+        "neutrons": 138,
+        "electrons": [89],
+        "name": "Actinium-227"
+    },
+    "90-Th-232": {
+        "protons": 90,
+        "neutrons": 142,
+        "electrons": [90],
+        "name": "Thorium-232"
+    },
+
+    "91-Pa-231": {
+        "protons": 91,
+        "neutrons": 140,
+        "electrons": [91],
+        "name": "Protactinium-231"
+    },
+    "92-U-238": {
+        "protons": 92,
+        "neutrons": 146,
+        "electrons": [92],
+        "name": "Uranium-238"
+    },
+    "93-Np-237": {
+        "protons": 93,
+        "neutrons": 144,
+        "electrons": [93],
+        "name": "Neptunium-237"
+    },
+    "94-Pu-244": {
+        "protons": 94,
+        "neutrons": 150,
+        "electrons": [94],
+        "name": "Plutonium-244"
+    },
+    "95-Am-243": {
+        "protons": 95,
+        "neutrons": 148,
+        "electrons": [95],
+        "name": "Americium-243"
+    },
+    "96-Cm-247": {
+        "protons": 96,
+        "neutrons": 151,
+        "electrons": [96],
+        "name": "Curium-247"
+    },
+    "97-Bk-247": {
+        "protons": 97,
+        "neutrons": 150,
+        "electrons": [97],
+        "name": "Berkelium-247"
+    },
+    "98-Cf-251": {
+        "protons": 98,
+        "neutrons": 153,
+        "electrons": [98],
+        "name": "Californium-251"
+    },
+    "99-Es-252": {
+        "protons": 99,
+        "neutrons": 153,
+        "electrons": [99],
+        "name": "Einsteinium-252"
+    },
+    "100-Fm-257": {
+        "protons": 100,
+        "neutrons": 157,
+        "electrons": [100],
+        "name": "Fermium-257"
+    },
+
+    "101-Md-258": {
+        "protons": 101,
+        "neutrons": 157,
+        "electrons": [101],
+        "name": "Mendelevium-258"
+    },
+    "102-No-259": {
+        "protons": 102,
+        "neutrons": 157,
+        "electrons": [102],
+        "name": "Nobelium-259"
+    },
+    "103-Lr-266": {
+        "protons": 103,
+        "neutrons": 163,
+        "electrons": [103],
+        "name": "Lawrencium-266"
+    },
+    "104-Rf-267": {
+        "protons": 104,
+        "neutrons": 163,
+        "electrons": [104],
+        "name": "Rutherfordium-267"
+    },
+    "105-Db-268": {
+        "protons": 105,
+        "neutrons": 163,
+        "electrons": [105],
+        "name": "Dubnium-268"
+    },
+    "106-Sg-269": {
+        "protons": 106,
+        "neutrons": 163,
+        "electrons": [106],
+        "name": "Seaborgium-269"
+    },
+    "107-Bh-270": {
+        "protons": 107,
+        "neutrons": 163,
+        "electrons": [107],
+        "name": "Bohrium-270"
+    },
+    "108-Hs-277": {
+        "protons": 108,
+        "neutrons": 169,
+        "electrons": [108],
+        "name": "Hassium-277"
+    },
+    "109-Mt-278": {
+        "protons": 109,
+        "neutrons": 169,
+        "electrons": [109],
+        "name": "Meitnerium-278"
+    },
+    "110-Ds-281": {
+        "protons": 110,
+        "neutrons": 171,
+        "electrons": [110],
+        "name": "Darmstadtium-281"
+    },
+
+    "111-Rg-282": {
+        "protons": 111,
+        "neutrons": 171,
+        "electrons": [111],
+        "name": "Roentgenium-282"
+    },
+    "112-Cn-285": {
+        "protons": 112,
+        "neutrons": 173,
+        "electrons": [112],
+        "name": "Copernicium-285"
+    },
+    "113-Nh-286": {
+        "protons": 113,
+        "neutrons": 173,
+        "electrons": [113],
+        "name": "Nihonium-286"
+    },
+    "114-Fl-289": {
+        "protons": 114,
+        "neutrons": 175,
+        "electrons": [114],
+        "name": "Flerovium-289"
+    },
+    "115-Mc-290": {
+        "protons": 115,
+        "neutrons": 175,
+        "electrons": [115],
+        "name": "Moscovium-290"
+    },
+    "116-Lv-293": {
+        "protons": 116,
+        "neutrons": 177,
+        "electrons": [116],
+        "name": "Livermorium-293"
+    },
+    "117-Ts-294": {
+        "protons": 117,
+        "neutrons": 177,
+        "electrons": [117],
+        "name": "Tennessine-294"
+    },
+    "118-Og-294": {
+        "protons": 118,
+        "neutrons": 176,
+        "electrons": [118],
+        "name": "Oganesson-294"
+    }
+}
